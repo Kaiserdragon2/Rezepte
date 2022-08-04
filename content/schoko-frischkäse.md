@@ -7,7 +7,7 @@ author: "me"
 
 - ⏲️ Prep time: 5 min
 - 🍳 Cook time: 7 min
-- 🍽️ Servings: 2 Gläser()
+- 🍽️ Servings: 2 Gläser (500 ml)
 
 ## Zutaten
 
