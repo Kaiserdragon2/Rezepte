@@ -23,13 +23,9 @@ author: "me"
 1. Butter erwärmen 
 2. Butter, Kakao. Zucker und Vanillezucker verrühren
 3. Masse abkühlen lassen
-4. Eier. Mehl und Mandeln unter die Masse rühren
+4. Eier, Mehl und Mandeln unter die Masse rühren
 5. Teig auf ein mit Backpapier ausgelecktes Backblech streichen.
 6. 30 min. bei 175°C bei O u. U-Hitze oder 160°C bei Heißluft Backen,
-7. Noch heiß mit Puderzucker bestre 
+7. Noch heiß mit Puderzucker bestreuen 
 
-Note that you can create a `your-name.json` file in `data/authors` to add
-personal links and donation addresses if you want more specific credit. If you
-do this, for the `author:` line the in the metadata, include the bare file name
-of the json file. For example, my file is `data/authors/luke-smith.json`, so I
-would put `author: luke-smith`.
+
