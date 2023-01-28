@@ -1,6 +1,6 @@
 ---
-title: Kartoffelpuffer mit Chili
-tags: ['Chili']
+title: Milchreis Mikrowelle
+tags: ['schnell', 'einfach']
 date: 2022-08-04
 author: "me"
 ---
