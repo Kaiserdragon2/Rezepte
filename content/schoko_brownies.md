@@ -12,10 +12,11 @@ author: "me"
 ## Zutaten
 
 - 500g Butter
-- 4 Tassen Kakao
+- 2 Tassen Kakao
 - 4 Tassen Zucker
-- 2 Päckchen Vanillezucker
+- 2 Päckchen Vanillinzucker
 - 8 Eier
+- 2 Tassen Mehl
 - 2 Tassen gemahlene Mandeln
 
 ## Zubereitung
