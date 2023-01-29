@@ -12,6 +12,7 @@ author: "me"
 ## Zutaten
 
 - 500 g Quark
+- 4 Eier
 - 9 EL Haferflocken
 - 6 EL Vollkorngrieß
 - Salz
